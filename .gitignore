@@ -1,0 +1,5 @@
+.vscode/
+venv/
+audio-file.flac
+authen.txt
+authen.json
